@@ -46,7 +46,7 @@
 ```plaintext
 打釘機/
 ├── 電動馬達打釘槍.pdf   # 電路設計圖
-├── src/
+├── Program/
 │   ├── main.c          # 主程式
 │   ├── user.c          # 各功能模組
 │   └── user.h          # 定義與全域變數
