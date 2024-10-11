@@ -46,7 +46,6 @@
 
 ## 目錄結構
 ```plaintext
-USB_Soldering_Iron_Control/
 ├── main.c          # 主程式
 ├── user.c          # 各功能函式
 ├── user.h          # 定義與全域變數
